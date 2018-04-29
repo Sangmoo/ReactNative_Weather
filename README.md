@@ -1,4 +1,6 @@
 # ReactNative_Weather
-* [Expo](https://expo.io) 이용
-* [OpenWeatherMapAPI](https://openweathermap.org/api) 이용
-* Editer [VisualStudioCode](https://code.visualstudio.com)  이용
+
+###Use
+* [Expo](https://expo.io)
+* [OpenWeatherMapAPI](https://openweathermap.org/api)
+* Editer [VisualStudioCode](https://code.visualstudio.com)
