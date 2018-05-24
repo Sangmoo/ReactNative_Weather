@@ -4,6 +4,7 @@ import { LinearGradient } from "expo";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import PropTypes from "prop-types";
 
+
 const weatherCases = {
     Rain: {
         colors: ["#00C6FB", "#005BEA", "#F54BC2"],
